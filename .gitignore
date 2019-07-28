@@ -1,0 +1,8 @@
+venv/
+venv/
+venv1
+venv1/
+test.py
+*.csv
+*.wav
+*.mp4
